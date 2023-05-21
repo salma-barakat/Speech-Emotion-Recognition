@@ -11,7 +11,7 @@ Speech Emotion Recognition (SER) is a field of artificial intelligence that focu
  • Then, get the feature space of each of the training data, validation data and test data.</br>
  • Convert the labels from categorical data to numerical data and fix the shapes of data to use them in the model.</br>
  • Adding the CNN models: the 1D model is for time domain feature space, while the 2D model is for the mel spectogram feature space.</br>
- Note: The models take a long time to run, so it is better to run the project using Kaggle notebook to take the advantage of its GPU.
+ Note: The models take a long time to run, so it is better to run the project using Kaggle notebook to take the advantage of its GPU.</br>
 **For more details refer to the report and the notebook.**
  
  
